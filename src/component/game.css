@@ -1,0 +1,167 @@
+.wrapper_game {
+  margin-top: auto;
+  margin-right: auto;
+  width: 2000px;
+  margin: 40px;
+  background-color: rgb(127, 182, 144);
+  min-height: 1000px;
+  /* height: 1000px; */
+  border-radius: 50px;
+  padding-bottom: 150px;
+}
+.gameButton {
+  font-size: 30px;
+  width: 10%;
+  border-radius: 15px;
+  margin: 10px;
+}
+.mode {
+  margin: 20px;
+}
+.memoryImg {
+  width: 90%;
+}
+.win {
+  width: 60%;
+}
+/* img {
+  width: 360px;
+  height: 180px;
+} */
+
+.mapWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.liteImg {
+  /* width: 20%;
+  height: 10%; */
+  width: 480px;
+  height: 260px;
+}
+
+.normalImg {
+  width: 360px;
+  height: 180px;
+}
+.hardImg {
+  width: 260px;
+  height: 130px;
+}
+.liteW {
+  padding: 10px;
+
+  margin-left: 13%;
+  margin-right: 13%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  transform-style: preserve-3d;
+  transition: 0.4s;
+  /* transition: transform 0.4s; */
+  /* transform: element.classS */
+}
+.normalW {
+  padding: 10px;
+  margin-left: 195px;
+  margin-right: 195px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  transform-style: preserve-3d;
+  transition: 0.4s;
+  /* transition: transform 0.4s; */
+  /* transform: element.classS */
+}
+.hardW {
+  padding: 10px;
+  margin-left: 140px;
+  margin-right: 140px;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  transform-style: preserve-3d;
+  transition: 0.4s;
+  /* transition: transform 0.4s; */
+  /* transform: element.classS */
+}
+
+.bacColorImg {
+  width: 40px;
+  height: 20px;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/* .flip-container { */
+/* perspective: 1000000000px; */
+/* width: 200px;
+  height: 200px; */
+/* cursor: pointer; */
+/* Изменяем курсор при наведении для указания на возможность клика */
+/* } */
+/* .flipper {
+  transform-style: preserve-3d;
+  transition: transform 0.4s;
+} */
+/* Стили для анимации */
+/* .flipped .flipper {
+  transform: rotateY(180deg);
+} */
+/* Стили для изображений на лицевой и обратной стороне */
+/* .front, */
+/* .back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+} */
+/* Лицевая сторона */
+/* .front {
+} */
+/* Обратная сторона */
+/* .back {
+  transform: rotateY(180deg);
+} */
+/*  */
+/*  */
+/*  */
+/*  */
+/* .box {
+  transform: rotateY(45deg);
+} */
+/*  */
+/*  */
+/*  */
+/* .my-wrapper-images {
+
+} */
+
+/* .my-mini-wrapper {
+  margin: 100px;
+  transform-style: preserve-3d;
+  transition: transform 0.4s;
+} */
+/* .my-mini-wrapperTwo .my-mini-wrapper  */
+/* .my-mini-wrapper .my-mini-wrapperTwo */
+/* {
+  transform: rotateY(180deg);
+} */
+
+/* .lamba,
+.bmw {
+  width: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+} */
+
+/* .bmw {
+  transform: rotateY(180deg);
+} */
+/* .lamba {
+   margin-left: auto;
+  margin-right: auto; 
+   width: 200px;
+  height: 200px;
+} */
